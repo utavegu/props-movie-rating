@@ -1,7 +1,7 @@
-import React from 'react'
-import PropTypes from 'prop-types'
-import Star from './Star'
-import {nanoid} from 'nanoid'
+import React from 'react';
+import PropTypes from 'prop-types';
+import Star from './Star';
+import {nanoid} from 'nanoid';
 
 function Stars({count}) {  
   return (

@@ -1,6 +1,6 @@
-import React from 'react'
-import './App.css'
-import Stars from './components/Stars'
+import React from 'react';
+import './App.css';
+import Stars from './components/Stars';
 
 function App() {
   return (
